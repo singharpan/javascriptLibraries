@@ -8,3 +8,6 @@ react-quiz-component is a ReactJS component allowing users to attempt a quiz.
 https://www.npmjs.com/package/react-quiz-component
 
 
+https://www.rajdeepsingh.dev/create-modern-quiz-with-react-js/
+
+
