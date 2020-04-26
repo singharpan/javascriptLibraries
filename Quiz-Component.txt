@@ -1,0 +1,10 @@
+....react-quiz-component...
+
+react-quiz-component is a ReactJS component allowing users to attempt a quiz.
+
+-->npm i react-quiz-component
+
+
+https://www.npmjs.com/package/react-quiz-component
+
+
