@@ -1,0 +1,28 @@
+Js performs action Asynchrnously..
+
+So there is a probability that when we call this.setState() methods for updating the state 
+
+the previous state could not be updated...
+
+therefore we take different approch in updating the state
+
+
+the setState function takes a function as parameter and prevState will be parameter within the function and returns the new state object 
+
+...i.e...
+
+
+state={
+count:0
+
+}
+
+incrementCount=()=>{
+
+this.setState(prevState=>{
+return{
+count:prevState.count+1,
+}
+}
+)
+}
