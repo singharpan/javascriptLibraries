@@ -1,0 +1,6 @@
+A modern JavaScript utility library
+
+It is a utility library
+
+$ npm i -g npm
+$ npm i --save lodash
